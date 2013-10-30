@@ -230,15 +230,13 @@
 </XPD:OBJ>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:ATTR name="#OwnedElements" type="integer">9</XPD:ATTR>
+<XPD:ATTR name="#OwnedElements" type="integer">8</XPD:ATTR>
 <XPD:OBJ name="OwnedElements[0]" type="UMLPackage" guid="hPk7qpvExEuSd78qX4SexQAA">
 <XPD:ATTR name="Name" type="string">Aux. Memory</XPD:ATTR>
 <XPD:ATTR name="StereotypeName" type="string">package</XPD:ATTR>
 <XPD:REF name="Namespace">LaE1m2VY+EuAMw0dSPQ6vwAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">1</XPD:ATTR>
 <XPD:REF name="Views[0]">Pe3zoj9hg0G/jcW0rLI0qQAA</XPD:REF>
-<XPD:ATTR name="#Associations" type="integer">1</XPD:ATTR>
-<XPD:REF name="Associations[0]">AhB2jswz6kC9P4BstXPdCQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[1]" type="UMLClass" guid="Xyd92fVyX0SenDp/C++NRQAA">
 <XPD:ATTR name="Name" type="string">Paciente</XPD:ATTR>
@@ -320,21 +318,6 @@
 <XPD:REF name="Views[1]">+LAtDbvmI0uqNItzMa8bgwAA</XPD:REF>
 <XPD:REF name="Views[2]">sasiTcW3g0etqjjsU34zcQAA</XPD:REF>
 <XPD:REF name="Views[3]">kTVhioySjUaPnW4uJ8xYxQAA</XPD:REF>
-<XPD:ATTR name="#Associations" type="integer">1</XPD:ATTR>
-<XPD:REF name="Associations[0]">IuW8TUVvTUyxcYYq8qfWxAAA</XPD:REF>
-</XPD:OBJ>
-<XPD:OBJ name="OwnedElements[8]" type="UMLAssociation" guid="Lb0dr80jgEGNEj9Tgv6/2wAA">
-<XPD:REF name="Namespace">LaE1m2VY+EuAMw0dSPQ6vwAA</XPD:REF>
-<XPD:ATTR name="#Connections" type="integer">2</XPD:ATTR>
-<XPD:OBJ name="Connections[0]" type="UMLAssociationEnd" guid="IuW8TUVvTUyxcYYq8qfWxAAA">
-<XPD:ATTR name="IsNavigable" type="boolean">False</XPD:ATTR>
-<XPD:REF name="Association">Lb0dr80jgEGNEj9Tgv6/2wAA</XPD:REF>
-<XPD:REF name="Participant">CsF1vIYKDkWH6dUE1ymRQgAA</XPD:REF>
-</XPD:OBJ>
-<XPD:OBJ name="Connections[1]" type="UMLAssociationEnd" guid="AhB2jswz6kC9P4BstXPdCQAA">
-<XPD:REF name="Association">Lb0dr80jgEGNEj9Tgv6/2wAA</XPD:REF>
-<XPD:REF name="Participant">hPk7qpvExEuSd78qX4SexQAA</XPD:REF>
-</XPD:OBJ>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[3]" type="UMLModel" guid="MY8+QYV2sk6K3DMQ6p8ONwAA">
