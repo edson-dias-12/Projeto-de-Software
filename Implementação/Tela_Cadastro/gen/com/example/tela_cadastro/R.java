@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.example.tela_edson;
+package com.example.tela_cadastro;
 
 public final class R {
     public static final class attr {
@@ -27,11 +27,11 @@ public final class R {
         public static final int action_settings=0x7f080007;
         public static final int button1=0x7f080000;
         public static final int checkedTextView1=0x7f080002;
-        public static final int checkedTextView2=0x7f080004;
-        public static final int checkedTextView3=0x7f080006;
+        public static final int checkedTextView2=0x7f080003;
+        public static final int checkedTextView3=0x7f080005;
         public static final int editText1=0x7f080001;
-        public static final int editText2=0x7f080003;
-        public static final int editText3=0x7f080005;
+        public static final int editText2=0x7f080004;
+        public static final int editText3=0x7f080006;
     }
     public static final class layout {
         public static final int activity_cadastro__medicamentos=0x7f030000;
