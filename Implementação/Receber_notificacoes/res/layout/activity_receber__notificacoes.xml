@@ -8,4 +8,23 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context=".Receber_Notificacoes" >
 
+    <Switch
+        android:id="@+id/switch1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="27dp"
+        android:text="Switch" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="104dp"
+        android:text="São 17h30min, lembre-se de tomar 1 propanolol agora, para tremor essencial."
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
 </RelativeLayout>
